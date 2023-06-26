@@ -1,3 +1,6 @@
+# 0.9.0
+* Remove activesupport constraint
+
 # 0.8.7
 * Lock activesupport version to < 5.0
 
