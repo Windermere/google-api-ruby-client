@@ -17,8 +17,8 @@ module Google
   class APIClient
     module VERSION
       MAJOR = 0
-      MINOR = 8
-      TINY  = 7
+      MINOR = 9
+      TINY  = 0
       PATCH = nil
       STRING = [MAJOR, MINOR, TINY, PATCH].compact.join('.')
     end
